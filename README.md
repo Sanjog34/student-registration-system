@@ -1,3 +1,3 @@
-# student-registration-system 
-nothing fancy. Simple c programming basics practise.
+# student-registration-system
+. Simple c programming basics practise.
 
